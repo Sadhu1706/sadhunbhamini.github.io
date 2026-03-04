@@ -1,10 +1,8 @@
 ---
-title: Matchy Colors
 ---
 
 # Matchy Colors
+A simple color-matching game.
 
-Quick color-matching game.
-
-- [Support](./support/)
-- [Privacy Policy](./privacy/)
+<p><a class="btn" href="/matchy-colors/support/">[Support](./support/)</a></p>
+<p><a class="btn" href="/matchy-colors/privacy/">[Privacy Policy](./privacy/)</a></p>
