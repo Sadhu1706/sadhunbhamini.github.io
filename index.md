@@ -12,5 +12,5 @@ A simple color-matching game.
 ---
 
 ## Contact
-Email: **your-email@example.com**  
+Email: sadhunarun.uk@gmail.com
 GitHub: [sadhu1706](https://github.com/sadhu1706)
