@@ -1,7 +1,7 @@
 ---
 ---
 
-## Hi, I’m Sadhun Arun
+## About
 Indie iOS developer building AR apps with **ARKit** and **RealityKit**.
 
 ## Apps
