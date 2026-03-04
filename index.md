@@ -1,17 +1,16 @@
 ---
 ---
 
+## Hi, I’m Sadhun Arun
+Indie iOS developer building AR apps with **ARKit** and **RealityKit**.
+
 ## Apps
 
-### Matchy Colors
+### [Matchy Colors](/matchy-colors/)
 A simple color-matching game.
-
-<a class="btn" href="/matchy-colors/support/">Support</a>
-<br></br>
-<a class="btn" href="/matchy-colors/privacy/">Privacy Policy</a>
 
 ---
 
 ## Contact
-Email: sadhunarun.uk@gmail.com
+Email: **sadhunarun.uk@gmail.com**  
 GitHub: [sadhu1706](https://github.com/sadhu1706)
