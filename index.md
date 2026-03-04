@@ -7,6 +7,7 @@
 A simple color-matching game.
 
 <a class="btn" href="/matchy-colors/support/">Support</a>
+<br></br>
 <a class="btn" href="/matchy-colors/privacy/">Privacy Policy</a>
 
 ---
