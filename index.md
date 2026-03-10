@@ -7,7 +7,7 @@ Indie iOS developer building AR apps with **ARKit** and **RealityKit**.
 
 ## Apps
 
-### [Matchy Colors](/matchy-colors/)
+### [Matchy Colors AR](/matchy-colors/)
 A simple color-matching game.
 
 ## Contact
