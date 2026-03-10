@@ -6,7 +6,7 @@ title: Matchy Colors Support
 
 If you need help, contact:
 
-sadhunarun.uk@gmail.com
+sadhunbhamini.dev@gmail.com
 
 ## FAQ
 
