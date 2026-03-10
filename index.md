@@ -11,5 +11,5 @@ Indie iOS developer building AR apps with **ARKit** and **RealityKit**.
 A simple color-matching game.
 
 ## Contact
-Email: **sadhunarun.uk@gmail.com**  
+Email: **sadhunbhamini.dev@gmail.com**  
 GitHub: [sadhu1706](https://github.com/sadhu1706)
